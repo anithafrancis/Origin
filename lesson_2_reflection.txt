@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 	
 		Using Git init will intialize a git repository by adding .git metadata file. without this file git will not be able to view a folder as repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+		
+		Staging area is a temporary holding place to add multiple files before commiting it to repository from the working directory.It reduces the 
+		number of commits to repository.
